@@ -1,16 +1,25 @@
-# pr_12
+# Практическая работа № 13 (программирование корпоративных систем)
 
-A new Flutter project.
+выполнила: **Полошкова Анастасия Юрьевна**
 
-## Getting Started
+группа: **ЭФБО-01-22**
 
-This project is a starting point for a Flutter application.
+## Описание и этапы выполнения работы
 
-A few resources to get you started if this is your first Flutter project:
+В данной работе необходимо было добавить страницу мои заказы.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1) Добавила на странице "Профиль" переход на страницу со всеми заказами пользователя
+<img src='https://github.com/user-attachments/assets/913862e1-41dd-4ac2-a557-d4e3a7c5f506' width = 300 />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='https://github.com/user-attachments/assets/f092aa72-d56a-40cb-8296-286575fc623c' width = 300 />
+
+2) Реализовала добавление заказов в БД после нажатия кнопки в корзине "Оформить заказ". После добавления заказа корзина очищается.
+<img src='https://github.com/user-attachments/assets/90a59948-0d21-4029-8d86-13ba792b51fd' width = 300 />
+
+<img src='https://github.com/user-attachments/assets/761ecaf5-1f5a-40f5-9a4f-bba8ea4b9de8' width = 300 />
+
+
+3) Пользователь через профиль может просмотреть оформленный заказ
+
+<img src='https://github.com/user-attachments/assets/873ddab1-c09b-4a0a-a055-bbe7a356ad27' width = 300 />
+
